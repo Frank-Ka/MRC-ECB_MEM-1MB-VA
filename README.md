@@ -1,2 +1,2 @@
-# RC-ECB-1MB-VA
-1MB Memory Modul for RC-ECB-64
+# MRC-ECB 1MB-VA
+1MB Memory Modul for MRC-ECB
